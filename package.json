@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-project",
+  "name": "Tea-12",
   "version": "1.0.0",
   "description": "Project",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yarost10/my-awesome-project.git"
+    "url": "git+https://github.com/Yarost10/Tea-12.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yarost10/my-awesome-project/issues"
+    "url": "https://github.com/Yarost10/Tea-12/issues"
   },
-  "homepage": "https://github.com/Yarost10/my-awesome-project#readme"
+  "homepage": "https://github.com/Yarost10/Tea-12#readme"
 }
